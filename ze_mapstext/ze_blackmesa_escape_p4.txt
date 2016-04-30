@@ -2,7 +2,7 @@
 {
 	"Map By: Bill Smauz"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作 By Bill Smauz 地图翻译 by 色狼领袖 **"
 	}
 	"Map For: www.zombiemurder.com"
 	{
@@ -75,18 +75,18 @@
 	}
 	"*** Rocket Labs Door Opens in 20 Seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 火箭实验室的门将在 20 秒后打开 **"
 	}
 	"*** Rocket Labs Door Opens in 10 Seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 火箭实验室的门将在 10 秒后打开 **"
 	}
 	"*** Cafeteria Doors Open in 15 Seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 餐厅的门将在 15 秒后打开 **"
 	}
 	"*** Security Door Closes in 5 Seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全门将在 5 秒后关闭**"
 	}
 }
