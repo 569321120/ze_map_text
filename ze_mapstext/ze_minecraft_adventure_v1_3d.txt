@@ -2,7 +2,7 @@
 {
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡 1 ：上界 **"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
@@ -358,30 +358,31 @@
 	}
 	"*** Thanks for playing! ***"
 	{
-		"chi"		"** 感谢您的试玩 **"
+		"chi"		"** 感谢您的体验 **"
 	}
 	"*** RESIST 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 抵抗 30 秒 **"
+		"DoorCountdown"		"30"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快杀掉僵尸 **"
 	}
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 干得好！下一道门将在 5 秒后打开 **"
 	}
 	"Hes watching you..."
 	{
-		"chi"		"** **"
+		"chi"		"** 他正在注视着你... **"
 	}
 	"*** HES RUNNING AWAY! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 他逃跑了！**"
 	}
 	"*** Map made by Cuniczek ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
 	}
 }
