@@ -2,7 +2,7 @@
 {
 	"<< Defend this spot 45 seconds !!! >>"
 	{
-		"chi"		"**防守 45 秒！！     不要贴着铁网！否则你将会被僵尸抓到！**"
+		"chi"		"**防守 45 秒!!!**不要贴着铁网！否则你将会被僵尸抓到！**"
 	}
 	"<< Power button has been ulocked !!! >>"
 	{
@@ -10,7 +10,7 @@
 	}
 	"<< Press it  to initiate the escape process !!! >>"
 	{
-		"chi"		"**快按下电源开关来开启逃生的大门！！！（电源开关在对面！）**"
+		"chi"		"**快按下电源开关来开启逃生的大门！！！**电源开关在对面**"
 	}
 	"<< Nice work, The process will take few seconds >>"
 	{
@@ -30,7 +30,7 @@
 	}
 	"<< you'll be able to escape in few seconds >>"
 	{
-		"chi"		"**按下开关后！你有一些时间从通风管道里逃脱！（不要待在管道里！）**"
+		"chi"		"**按下开关后！你有一些时间从通风管道里逃脱！**不要待在管道里**"
 	}
 	"<< protect this engine, Defend until a solution is found >>"
 	{
@@ -67,6 +67,6 @@
 	}
 	"<< youll be able to escape in few seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以接下来的几秒内逃命去吧**"
 	}
 }
