@@ -35,7 +35,7 @@
 	}
 	">>>Door has opened,RUUUUUUNNN<<<"
 	{
-		"chi"		"**大门开启，撤！！！！！**"
+		"chi"		"**大门开启，撤！！！！**"
 	}
 	">>>Lowing the bridge,GO!<<<"
 	{
