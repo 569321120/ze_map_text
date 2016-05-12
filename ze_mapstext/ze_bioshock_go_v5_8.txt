@@ -323,154 +323,158 @@
 	}
 	">>>ATLAS:  Would you kindly take care o things while I work!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：在我解决掉问题之前，照顾好你们自己！ **"
 	}
 	">>>ATLAS: Nearly there.. (10 seconds)<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：马上就好了..（ 10 秒）**"
+                "DoorCountdown"                "10"
 	}
 	">>>ATLAS: That got it! Would you kindly get moving again?!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：成功了！现在你们还能够接着前进吗?! **
 	}
 	">>>Rapture METRO last call for boarding<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 末班车即将到来 **"
 	}
 	">>>Rapture METRO is departing in 5 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 末班地铁将在 5 秒后出发！ **"
+                "DoorCountdown"                "5"
 	}
 	">>>Rapture METRO is leaving<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地铁正在驶离 **"
 	}
 	">>>ATLAS: Nice work boyo. Im waiting for you in Hephaestus<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：非常棒！小伙子们。我在赫菲斯托斯等待你们的到来 **"
 	}
 	">>>ATLAS: We need  to overload the hephaestus core<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：现在我们需要摧毁赫菲斯托斯核心（hephaestus core）**"
 	}
 	">>>ATLAS: In order to do that we need a bomb<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：为了做到这一点,我们需要一个炸弹 **"
 	}
 	">>>ATLAS: Find what we need and take it to Kyburz office<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：找到我们所需要的材料，然后把他带到Kyburz办公室 **（材料都会发着黄光，丢掉副武器拾取材料）"
 	}
 	"*R-34 Fuse 1 of 3 added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 已经获得 R-34 雷管 1 个，总共需要 3 个 **"
 	}
 	"*R-34 Fuse 2 of 3 added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 已经获得 R-34 雷管 2 个，总共需要 3 个 **"
 	}
 	"*Nitroglycerine Obtained*"
 	{
-		"chi"		"** **"
+		"chi"		"** 获得硝酸甘油 **"
 	}
 	">>>90 seconds left to build the bomb<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 建造炸弹时限 90 秒倒计时 **"
 	}
 	"*All Nitroglycerine added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 所有硝化甘油已经集齐 **"
 	}
 	">>>60 seconds left to build the bomb<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 建造炸弹时限 60 秒倒计时 **"
 	}
 	">>>30 seconds left to build the bomb<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 建造炸弹时限 30 秒倒计时 **"
+                "DoorCountdown"                "5"
 	}
 	"*Ionic Gel 1 of 4 added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 已经获离子凝胶 1 个，总共需要 4 个 **"
 	}
 	">>>FAILURE: You were too slow to build the bomb<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 失败：你们建造炸弹的速度太慢了 **"
 	}
 	"*All R-34 Fuse Wires added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 所有 R-34 雷管已经集齐 **"
 	}
 	"*Ionic Gel 2 of 4 added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 已经获离子凝胶 2 个，总共需要 4 个 **"
 	}
 	"*Ionic Gel 3 of 4 added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 已经获离子凝胶 3 个，总共需要 4 个 **"
 	}
 	"*All Ionic Gel added*"
 	{
-		"chi"		"** **"
+		"chi"		"** 所有离子凝胶已经集齐 **"
 	}
 	"*EMP Bomb ready for collection*"
 	{
-		"chi"		"** **"
+		"chi"		"** 快去拿起炸弹 **"
 	}
 	">>>EMP Bomb obtained. Take it to Core#3!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 获得电脉冲炸弹.把它带到核心！ **"
 	}
 	">>>ATLAS: Would you kindly set that bomb!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：现在请你们去安放炸弹！ **（只需要一名壮士！）"
 	}
 	"*EMP Bomb Placed*"
 	{
-		"chi"		"** **"
+		"chi"		"** 电磁脉冲炸弹已就位 **"
 	}
 	"*Sympthetic Overload in Harmonic Core #3 Triggered*"
 	{
-		"chi"		"** **"
+		"chi"		"** 引爆赫菲斯托斯核心 **"
 	}
 	"*Nice work boyo. Now head on up to Ryans office so we can meet in person*"
 	{
-		"chi"		"** **"
+		"chi"		"** 干的好少年们.现在到瑞安的办公室，这样我们就可以见面了**"
 	}
 	"*Andrew Ryans Office is now unlocked*"
 	{
-		"chi"		"** **"
+		"chi"		** 解锁瑞安的办公室 **"
 	}
 	"*Splicers freed*"
 	{
-		"chi"		"** **"
+		"chi"		"** 即将释放移接人（僵尸） **"
 	}
 	">>>Rapture Control: Elevator leaving in 15 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 销魂城管理：电梯将在 15 秒后离开 **"
+                "DoorCountdown"                "15"
 	}
 	">>>Rapture Control: Elevator leaving in 5 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 销魂城管理：电梯将在 5 秒后离开 **"
 	}
 	"*Fontaine is trying to drag you into the pit*"
 	{
-		"chi"		"**BOSS使用了万象天引！**"
+		"chi"		"** Fontaine试图把你拖进深渊 **"
 	}
 	"*Dont get knocked off the platform*"
 	{
-		"chi"		"**BOSS使用了神罗天征！**"
+		"chi"		"** 不要撞到平台 **"
 	}
 	">>>Splicer has entered the core. Bomb must be placed within 60 seconds<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 移接人（僵尸）已经进入核心.炸弹必须在 60 秒内放置完毕 **"
 	}
 	">>>ATLAS: FAILURE! You were too slow!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Atlas： 失败！你们的速度太慢了！ ***"
 	}
 	">>>ATLAS: You failed. Splicers made it into the core tower<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：你失败了。移接人制成了核心塔 **"
 	}
 }
